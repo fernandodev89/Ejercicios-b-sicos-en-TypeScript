@@ -1,5 +1,5 @@
 // Estudiante: FERNANDO DAVID CONTRERAS MORAN
-function Saludo(){
+function saludo(){
     return 'Hola Inge Matul, subame un poco más la nota de mi parcial plis <3'
 }
 
@@ -12,6 +12,6 @@ function sumar(a: number, b: number): number {
 }
 
 
-console.log(Saludo())
+console.log(saludo())
 console.log(esPar(3))
 console.log('El resultado de la suma es:',sumar(3,44))
